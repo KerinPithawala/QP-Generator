@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "AkbarHabeeb",
+      "name": "Akbar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20479150?v=4",
+      "profile": "http://akbarhabeeb5.blogspot.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
