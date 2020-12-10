@@ -1,6 +1,6 @@
 #### For NWoC, KWoC, SWoC
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 We always prefer Slack, yet we decided to try WhatsApp for communication to reduce the gap between the mentee and mentor. If you have read our [wiki page](https://github.com/Team-Tomato/QP-Generator/wiki) and decided to contribute to the project, please join the [Whatsapp chat](https://chat.whatsapp.com/FPC7s89jrtr44ZvCHY9CJM)
 
@@ -57,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Kerveyfelix"><img src="https://avatars3.githubusercontent.com/u/46436993?v=4" width="100px;" alt=""/><br /><sub><b>Kerin Pithawala</b></sub></a><br /><a href="https://github.com/Kerveyfelix/QP-Generator/commits?author=Kerveyfelix" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://tejastapas.netlify.app/"><img src="https://avatars3.githubusercontent.com/u/64543913?v=4" width="100px;" alt=""/><br /><sub><b>Tejas1510</b></sub></a><br /><a href="https://github.com/Kerveyfelix/QP-Generator/commits?author=Tejas1510" title="Documentation">📖</a></td>
   </tr>
 </table>
 
